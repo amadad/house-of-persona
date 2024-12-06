@@ -1,0 +1,602 @@
+[
+  {
+    "message": "Your perfect space in the heart of the city. Minutes from everything that matters.",
+    "average_score": 7.285714285714286,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Moderate",
+        "price_value_perception": "Depends on Actual Cost and Specific Amenities Provided"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "The property's central location can be appealing as it provides easy access to healthcare facilities, community centers, and other places of interest that are important for a maternal health advocate.",
+        "amenity_importance": "Amenities could be particularly important to someone in this field, especially those that facilitate wellness and relaxation, as well as convenience for work, such as a home office or study room. The property message does not mention any specific amenities, which could potentially lower its overall appeal.",
+        "price_value_perception": "Without information on the price or specific features of the property, it's difficult to evaluate its perceived value. However, assuming that the price is competitive for its location, the convenience of being 'minutes from everything that matters' could enhance the property's perceived value."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Medium"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Medium"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Moderate"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High, as the property is centrally located and in close proximity to city's important hubs",
+        "amenity_importance": "Medium, as an engineer, the focus might be more on functionality and utility over luxury amenities. However, depending on the specific preferences, amenities could still be a significant factor",
+        "price_value_perception": "The price value perception would depend on the actual cost of the property. Given the prime location, if it is priced competitively, the perception could be 'good value for money'. If it is overpriced, the perception could be 'expensive'. More information is needed to provide a precise evaluation"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Moderate",
+        "price_value_perception": "Above Average"
+      }
+    ]
+  },
+  {
+    "message": "Welcome to your sanctuary. Where modern convenience meets timeless elegance.",
+    "average_score": 7.25,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "Highly appealing if the property is located in a quiet, well connected and safe area, close to government institutions, think tanks or other relevant workplaces for a Political Analyst. If not, the appeal might be lower.",
+        "amenity_importance": "High - As a professional in a demanding field, amenities that provide convenience, comfort, and help in maintaining work-life balance are of great importance. These can include a home office, good internet connection, proximity to public transport, fitness amenities, etc.",
+        "price_value_perception": "This will largely depend on the actual price, the location, and the amenities offered. However, the message suggests a premium property. If it delivers on the promise of 'modern convenience' and 'timeless elegance', a higher price might be perceived as justified."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "The message does not provide any information about the property's location. Therefore, a judgment cannot be made about the property's location appeal.",
+        "amenity_importance": "The property seems to focus on providing modern conveniences and timeless elegance, which may indicate high-quality amenities and services. However, without specific information about these amenities, it can only be assumed that they are likely to be considered important to the potential resident.",
+        "price_value_perception": "The message suggests a high-end property due to the use of words like 'sanctuary', 'modern convenience', and 'timeless elegance'. This may lead to a perception of high price value, but without knowledge of the actual price and the specific amenities and services offered, it's difficult to make an accurate analysis."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "The message doesn't provide any specific detail about the location, therefore it's difficult to assess its appeal for a maternal health advocate. However, if the property is close to health centers or hospitals, it could be highly appealing.",
+        "amenity_importance": "The amenities that might be important to a maternal health advocate could be peace, tranquility, safety, and a convenient living environment. The message implies modern convenience and elegance which could be attractive, but doesn't offer any specific information about the amenities provided.",
+        "price_value_perception": "The phrasing 'modern convenience meets timeless elegance' suggests a high-end, possibly expensive property. The perceived value would depend on the exact amenities, location, and services included in the price, which are not specified in this message."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Medium",
+        "amenity_importance": "High",
+        "price_value_perception": "High"
+      },
+      {
+        "lifestyle_fit_score": 5,
+        "location_appeal": "High if property is near training facilities or school, low if far away",
+        "amenity_importance": "High for amenities related to fitness and relaxation, such as a gym or sports facilities",
+        "price_value_perception": "Could be seen as high value if the property offers facilities that aid in the athlete's training and recovery, but low value if these are not present or if the price is too high compared to similar properties"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Average"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "The property message doesn't provide specific information about locality. However, the mention of 'modern convenience' implies a location with easy access to modern amenities, which could be appealing to the engineer.",
+        "amenity_importance": "For an engineer, modern conveniences and timeless elegance could refer to well-designed, efficient, and aesthetically pleasing spaces. This could be a very important factor for an engineer who appreciates good design and functionality.",
+        "price_value_perception": "Without knowing the price or seeing the property, it's hard to evaluate the perceived value. However, the description suggests a high-end property. Depending on the engineer's financial situation, this could be perceived as good value if the property lives up to its description of merging modern convenience with timeless elegance."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High - likely close to commercial areas, convenient for work and lifestyle needs",
+        "amenity_importance": "High - A general counsel at TurpCo Industries would appreciate modern conveniences and elegance, hinting at premium amenities",
+        "price_value_perception": "High - The description suggests a premium property, which is in line with the high-level position at TurpCo"
+      }
+    ]
+  },
+  {
+    "message": "Live where lifestyle meets luxury. Discover spacious floor plans and resort-style amenities.",
+    "average_score": 6.8,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "As the message does not provide specific information about the property's location, it is impossible to evaluate its appeal based on a political analyst's interest in El Salvador's political landscape.",
+        "amenity_importance": "Resort-style amenities could be appealing for relaxation and leisure purposes. However, as a political analyst, amenities related to work (like a home office or proximity to political institutions or libraries) might be more important. The importance of the property's amenities would therefore depend on the specific amenities offered and the potential resident's personal and professional needs.",
+        "price_value_perception": "Without information about the property's price or the potential resident's budget, it is impossible to evaluate the perceived value for the price. However, the message's emphasis on luxury suggests a higher price point, which could be perceived as good value if the property's location, amenities, and space meet the potential resident's needs and expectations."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Not specified in the property message, therefore cannot evaluate",
+        "amenity_importance": 8,
+        "price_value_perception": "Not specified in the property message, therefore cannot evaluate"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Depends on proximity to relevant healthcare facilities, advocacy centres, and community outreach locations",
+        "amenity_importance": "High - Ideally amenities should include wellness and fitness centers, relaxation spaces, and community areas for hosting events and meetings",
+        "price_value_perception": "Depends on the specific price point and comparison to local market. The perceived value will also be influenced by how well the amenities and location align with advocacy work and personal lifestyle"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Medium"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High, provided it's close to the school or training facilities",
+        "amenity_importance": "High, especially for amenities related to fitness and relaxation for post-training recovery",
+        "price_value_perception": "Medium to High, depending on the affordability for the potential resident and the perceived value the amenities and space bring to their lifestyle and athletic goals"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High - A virtual reality content creator likely values a modern, luxury living environment that may inspire creativity.",
+        "amenity_importance": "High - Resort-style amenities could provide relaxation and a change of scenery, both of which are important for a creative professional.",
+        "price_value_perception": "Depends on the actual price - If the price aligns with the perceived value of the spacious floor plans and luxury amenities, then the perception would be high. If the price is seen as too high for what's offered, the perception would be low."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Moderate",
+        "amenity_importance": "High",
+        "price_value_perception": "Above average"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High - Close to tech hubs and necessary conveniences",
+        "amenity_importance": "High - As an IT project manager working with XP methodologies, amenities that support work-life balance and stress relief could be very valuable",
+        "price_value_perception": "Moderate - Depending on the actual price, if the amenities and location support the demands of the profession well, it could be perceived as a fair value"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Very Important",
+        "price_value_perception": "High"
+      },
+      {
+        "lifestyle_fit_score": 3,
+        "location_appeal": "Low",
+        "amenity_importance": "Medium",
+        "price_value_perception": "High"
+      }
+    ]
+  },
+  {
+    "message": "Elevate your lifestyle. Premium finishes, smart home features, and stunning views await.",
+    "average_score": 6.8,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "Highly dependent on the property's location within El Salvador. As a political analyst, proximity to government offices, embassies, or other relevant institutions may increase appeal.",
+        "amenity_importance": "High. Given the target profession's likely need for a home office and access to high-tech amenities for work purposes, features like smart home technology are likely very important. Premium finishes contribute to a high-quality living environment, which may also be important for entertaining guests or hosting work-related events.",
+        "price_value_perception": "This will largely depend on the specific price point relative to the market and the individual's budget. However, given the premium features mentioned, one might expect a higher price point, which could be perceived as fair value if the quality and convenience of the amenities justify the cost."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Above Average"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Moderate - Dependent on proximity to health facilities and community resources",
+        "amenity_importance": "High - Smart home features can aid in monitoring and managing healthcare needs",
+        "price_value_perception": "High - Premium finishes and stunning views indicate high property value"
+      },
+      {
+        "lifestyle_fit_score": 4,
+        "location_appeal": "Low - The message does not mention proximity to sports facilities or any sports-related amenities.",
+        "amenity_importance": "Low - The message focuses on luxury features and views rather than amenities that might be important to a sports-oriented individual like a gym or basketball court.",
+        "price_value_perception": "High - The message suggests a high-end property with premium features. The perceived value is likely to be high, but this may be less relevant for an individual more interested in sports facilities than luxury finishes."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Above Average"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Critical",
+        "price_value_perception": "Moderate"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Above Average"
+      },
+      {
+        "lifestyle_fit_score": 9,
+        "location_appeal": "High",
+        "amenity_importance": "Very High",
+        "price_value_perception": "Moderate"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Very High",
+        "price_value_perception": "Fair"
+      },
+      {
+        "lifestyle_fit_score": 4,
+        "location_appeal": "Medium",
+        "amenity_importance": "High",
+        "price_value_perception": "Low"
+      }
+    ]
+  },
+  {
+    "message": "Live extraordinarily. Award-winning designs meet world-class amenities.",
+    "average_score": 6.8,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "This property does not provide information on its location, so it is difficult to ascertain its appeal to a Political Analyst specialized in El Salvador's political landscape. It is recommended to provide more information on its proximity to political or governmental institutions, security, and socioeconomic status of the location.",
+        "amenity_importance": "The property message emphasizes world-class amenities, which may be of high importance to a Political Analyst if it includes amenities that cater to their professional needs such as a home office, fast and reliable internet connection, or access to a library or study room.",
+        "price_value_perception": "The property message does not provide any information on the price. However, terms like 'award-winning designs' and 'world-class amenities' give an impression of a high-end or luxury property, which may be perceived as high value for the price, depending on the actual price and the potential resident's budget."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Very High",
+        "price_value_perception": "Above Average"
+      },
+      {
+        "lifestyle_fit_score": 5,
+        "location_appeal": "Low",
+        "amenity_importance": "Medium",
+        "price_value_perception": "High"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Depends on the actual price, distance to school, and access to sports facilities"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High if close to sports facilities or school",
+        "amenity_importance": "High, particularly gym and sports related amenities",
+        "price_value_perception": "Depends on individual's or family's budget, but generally perceived as high value if amenities support athletic training"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Medium"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Medium",
+        "amenity_importance": "High",
+        "price_value_perception": "Medium-High"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Depends on proximity to job, community of tech professionals, and availability of resources for personal hobbies or interests",
+        "amenity_importance": "High. As an IT project manager, amenities such as high-speed internet, home office space, and tech-friendly facilities would be highly valued",
+        "price_value_perception": "Depends on salary and personal financial status. However, given the profession, there might be a willingness to invest more in a property that supports a high-quality, tech-oriented lifestyle"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Very High",
+        "price_value_perception": "Good"
+      },
+      {
+        "lifestyle_fit_score": 3,
+        "location_appeal": "Low",
+        "amenity_importance": "Medium",
+        "price_value_perception": "High"
+      }
+    ]
+  },
+  {
+    "message": "Reimagine home. Designer interiors, premium amenities, and unmatched location.",
+    "average_score": 6.777777777777778,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Depends on the pricing compared to similar properties in the area"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "The property message does not provide specific details about the location, making it difficult to determine its appeal to a maternal health advocate. If it is in proximity to healthcare facilities or has easy access to support groups and other resources, it could be more appealing.",
+        "amenity_importance": "Premium amenities could be appealing to a maternal health advocate, particularly if these amenities include things that could enhance work-life balance, like a gym, wellness center, or spaces for hosting community events. However, without specific details, it's difficult to assess the true importance of these amenities.",
+        "price_value_perception": "The property message suggests a high-end, luxury living experience which might be perceived as expensive. Value perception would depend on the specific amenities, the exact location, and the pricing compared to similar properties in the area."
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Moderate",
+        "amenity_importance": "High",
+        "price_value_perception": "Depends on Proximity to Sports Facilities and Affordability"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Dependent on property's proximity to sports facilities and school",
+        "amenity_importance": "High if amenities include sports facilities like a basketball court, gym, etc.",
+        "price_value_perception": "Dependent on the affordability for a student and the value derived from amenities and location"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High - Virtual reality content creators often require quick access to digital communities and tech facilities. Also, a central location can provide inspiration for their work.",
+        "amenity_importance": "High - As a content creator, amenities such as high-speed internet, creative spaces, and state-of-the-art tech facilities would be extremely valuable.",
+        "price_value_perception": "Medium to High - The perceived value of the property would largely depend on the price point. If priced competitively, the unique features and prime location could be seen as valuable. However, if it is overly expensive, it may not offer enough value in return, especially if the creator is still building their career and income."
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "High"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "A location's appeal would depend on its proximity to the potential resident's workplace or areas of interest. As an IT project manager, the potential resident might value a location near tech hubs or co-working spaces.",
+        "amenity_importance": "A potential resident with a background in IT project management and XP methodologies might value amenities that support a work-life balance, such as co-working spaces, high-speed internet, and quiet, comfortable spaces for relaxation or concentration. Designer interiors might be appreciated, but might not be the primary motivation for choosing a property.",
+        "price_value_perception": "The perception of price value would depend on the potential resident's income and financial priorities. As an IT project manager, they might have a higher income and be willing to invest in a property with premium amenities and a desirable location. However, if the price is significantly higher than other properties with similar amenities, they might perceive the price value as low."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High - As a general counsel for TurpCo Industries, proximity to work or major transport links could be significant. The unmatched location indicates it could well suit a busy professional's lifestyle.",
+        "amenity_importance": "High - Premium amenities, possibly including a gym, concierge, parking, or others, could provide significant value and convenience for a professional with a demanding job and limited free time. The importance will depend on the specific amenities offered and their relevance to the individual.",
+        "price_value_perception": "Medium - Although the message does not provide specific price information, the use of terms like 'designer interiors' and 'premium amenities' suggests a high-end property. The perceived value for money will depend on the specific price point relative to comparable properties in the same location, as well as the individual's personal financial situation and priorities."
+      },
+      {
+        "lifestyle_fit_score": 4,
+        "location_appeal": "Medium",
+        "amenity_importance": "Low",
+        "price_value_perception": "High"
+      }
+    ]
+  },
+  {
+    "message": "Experience luxury living redefined. Our modern apartments blend sophisticated design with unparalleled amenities.",
+    "average_score": 6.5,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Above Average"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Depends on proximity to hospitals, medical centers, or community centers where advocacy work may be done",
+        "amenity_importance": "High if the amenities include spaces that could be used for advocacy work, such as meeting rooms or social halls",
+        "price_value_perception": "Depends on the rent/mortgage costs in comparison to the average income of a maternal health advocate and the cost of similar properties in the area"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Medium",
+        "amenity_importance": "High",
+        "price_value_perception": "Low to Medium"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Depends on proximity to school and sports training facilities",
+        "amenity_importance": "High, if amenities include sports and fitness facilities",
+        "price_value_perception": "Might be perceived as high due to luxury branding, depends on personal financial circumstances"
+      },
+      {
+        "lifestyle_fit_score": 9,
+        "location_appeal": "High",
+        "amenity_importance": "Very High",
+        "price_value_perception": "Average"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Moderate",
+        "amenity_importance": "High",
+        "price_value_perception": "Above Average"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Moderate"
+      },
+      {
+        "lifestyle_fit_score": 2,
+        "location_appeal": "Low - The message does not provide information about the location. As a father seeking a place for his children, proximity to schools, parks or other family-oriented amenities may be important to him.",
+        "amenity_importance": "Medium - The mention of 'unparalleled amenities' could potentially be appealing if they include family-friendly amenities. However, without specific details, it's difficult to assess how much value they might offer to a father of three.",
+        "price_value_perception": "Low - The use of words like 'luxury', 'sophisticated', and 'unparalleled' suggest a high price point. The father seeking legal representation for child custody may be facing significant legal costs and may not perceive this as good value for money."
+      }
+    ]
+  },
+  {
+    "message": "Your dream home awaits. Join a vibrant community where every detail is crafted for your comfort.",
+    "average_score": 6.333333333333333,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Moderate, given that the message does not provide specific details about the location's proximity to key places of interest for a political analyst such as government offices, embassies, or media outlets.",
+        "amenity_importance": "High, considering the emphasis on 'every detail is crafted for your comfort'. This suggests a high level of attention to amenities and features that contribute to a comfortable and convenient living experience.",
+        "price_value_perception": "Unclear. The message does not provide specific information about the price of the property, making it difficult to assess its perceived value."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Moderate",
+        "price_value_perception": "Good"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "Moderate",
+        "amenity_importance": "High",
+        "price_value_perception": "Average"
+      },
+      {
+        "lifestyle_fit_score": 3,
+        "location_appeal": "low",
+        "amenity_importance": "medium",
+        "price_value_perception": "high"
+      },
+      {
+        "lifestyle_fit_score": 5,
+        "location_appeal": "Low",
+        "amenity_importance": "High",
+        "price_value_perception": "Medium"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Being a virtual reality content creator, the location's appeal is more likely to depend on the availability of a good internet connection and space for VR equipment rather than on proximity to physical amenities. However, the emphasis on a 'vibrant community' could be attractive if the creator values social opportunities and networking.",
+        "amenity_importance": "High. The property would need to have sufficient space for a home office or studio, preferably with soundproofing and good light. Access to high-speed internet would also be essential. The 'crafted for your comfort' message suggests that the property may offer these kinds of amenities.",
+        "price_value_perception": "This would depend on the specific amenities offered and their relevance to the creator's work. A property that is tailored to their needs as a VR creator, in terms of both space and tech infrastructure, may be perceived as good value. However, a property that is 'crafted for comfort' but lacks these specific amenities may not be seen as good value."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Fair"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Fair"
+      },
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "Highly dependent on the proximity of the property to TurpCo Industries. If it's close, the appeal would be high, otherwise, it could be minimal.",
+        "amenity_importance": "As a general counsel, amenities that promote relaxation, fitness, and convenience such as a home office, gym, and proximity to necessary services would be highly important.",
+        "price_value_perception": "The perception of value will depend on the actual price of the property, the features it offers, and its location. A general counsel would likely have a high salary, so they may be willing to pay more for a property that meets all their needs and preferences."
+      }
+    ]
+  },
+  {
+    "message": "Life without compromise. Luxury apartments designed for modern living.",
+    "average_score": 6.333333333333333,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 7,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Expensive"
+      },
+      {
+        "lifestyle_fit_score": 5,
+        "location_appeal": "Location appeal would be subjective and dependent on proximity to health facilities, community centers or other areas important to a maternal health advocate. This is not detailed in the message.",
+        "amenity_importance": "The importance of amenities would be high for a maternal health advocate. This aspect of the property message is lacking detailed information about what amenities are available that would cater to a maternity lifestyle. E.g. a fitness center with yoga classes, a community center for group meetings or a wellness spa.",
+        "price_value_perception": "Without specific details about the price point or the specific features that justify the 'luxury' label, it is difficult to judge the perceived value for money of these apartments. However, using the term 'luxury' generally indicates a higher price, which may or may not correlate with high value depending on the resident's specific needs and financial situation."
+      },
+      {
+        "lifestyle_fit_score": 4,
+        "location_appeal": "Low, the message does not indicate proximity to sports facilities or outdoor recreational areas which are likely important to a sports-focused individual",
+        "amenity_importance": "Medium, the message indicates 'modern living' which may be interpreted as high-quality amenities, but it does not specifically mention sports or fitness-related amenities",
+        "price_value_perception": "High, the term 'luxury' suggests a higher price point, which may not align with the budget constraints of a school basketball team captain"
+      },
+      {
+        "lifestyle_fit_score": 5,
+        "location_appeal": "Moderate - Depending on the proximity to the school and basketball facilities",
+        "amenity_importance": "High - As an athlete, amenities such as a gym, sports facilities, and quick access to healthy food options are crucial",
+        "price_value_perception": "Low - As a student athlete, the perception of value for a luxury apartment might be low due to potential budget constraints"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "High",
+        "price_value_perception": "Moderate"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Moderate",
+        "price_value_perception": "Above Average"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Moderate",
+        "price_value_perception": "High"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High - proximity to TurpCo Industries and other essential services",
+        "amenity_importance": "High - as a busy professional, convenience and on-site facilities are of utmost importance",
+        "price_value_perception": "Moderate - as a high-ranking professional, price is less of a concern than value, comfort, and convenience"
+      },
+      {
+        "lifestyle_fit_score": 4,
+        "location_appeal": "Medium",
+        "amenity_importance": "High",
+        "price_value_perception": "Low"
+      }
+    ]
+  },
+  {
+    "message": "Urban living at its finest. Walk to trendy restaurants, shops, and entertainment.",
+    "average_score": 6.3,
+    "detailed_responses": [
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "Highly appealing with instant access to amenities such as restaurants, shops, and entertainment venues. This could be especially beneficial for a political analyst who may require frequent meetings and social interactions. However, there is no mention of proximity to political institutions or other relevant workplaces.",
+        "amenity_importance": "High. The amenities mentioned are important for professionals who value convenience and a vibrant lifestyle. However, it would be more appealing if it included amenities such as a home office or study room, considering the nature of a political analyst's work.",
+        "price_value_perception": "Unclear. Without specific price information or description about the property's size, quality, or other features, it is hard to accurately evaluate price value. Based on the prime location and urban lifestyle implied, it could be perceived as high value if competitively priced."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Moderate",
+        "price_value_perception": "Depends on individual financial capacity and price of property"
+      },
+      {
+        "lifestyle_fit_score": 5,
+        "location_appeal": "The location seems to be appealing for urbanites who enjoy city life, with easy access to restaurants, shops, and entertainment. However, for a maternal health advocate focusing on postpartum complications, it might not be important or appealing as there is no mention of health facilities, parks, or other child-friendly amenities.",
+        "amenity_importance": "The amenities highlighted in the property message seem to target young professionals or people who enjoy the city life. Considering the profile of the potential resident, the importance of these amenities might be low. The potential resident might be more interested in amenities such as healthcare facilities, daycare centers, or peaceful environments for relaxation and recovery.",
+        "price_value_perception": "Without knowledge of the price, the value perception is difficult to determine. However, considering the location and its convenience to major urban amenities, it might be perceived as high value for those who prioritize urban living. For the potential resident with a focus on maternal health, the value perception might be average or low, depending on the price, due to the lack of mentioned amenities that align with her needs or interests."
+      },
+      {
+        "lifestyle_fit_score": 3,
+        "location_appeal": "Low",
+        "amenity_importance": "Low",
+        "price_value_perception": "Varies"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "The location may appeal to the athletic aspirant due to proximity to entertainment and dining options, which are beneficial for socializing and unwinding after intense training sessions. However, the message doesn't specify proximity to sports facilities or schools, which could be a major consideration for this potential resident.",
+        "amenity_importance": "Amenities such as a gym, basketball court, or easy access to sports facilities would be of high importance to this potential resident. The property message doesn't detail any such amenities, which could affect its perceived suitability.",
+        "price_value_perception": "Without information on price or the presence of desirable amenities for an aspiring athlete (like fitness or sports facilities), it's difficult to assess the perceived value for money. Urban properties can often be more expensive, which could be a consideration if this individual is a student athlete."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "High"
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "High",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Depends on personal budget"
+      },
+      {
+        "lifestyle_fit_score": 6,
+        "location_appeal": "The location could be appealing to an IT project manager who enjoys a vibrant city lifestyle. However, the description doesn't mention proximity to tech hubs or coworking spaces, which may be more relevant to an IT professional.",
+        "amenity_importance": "The amenities highlighted in the property message, such as trendy restaurants, shops, and entertainment, may not be of utmost importance to an IT project manager who might value amenities like fast and reliable internet, quiet workspaces, and easy access to public transportation more.",
+        "price_value_perception": "Without information on the price or the quality of the property itself, it's challenging to make an assessment. However, properties in urban areas with trendy amenities can typically demand higher prices, which may not align with the perceived value for an IT project manager focused more on practical amenities."
+      },
+      {
+        "lifestyle_fit_score": 8,
+        "location_appeal": "The location seems to be in a vibrant, urban setting with a variety of amenities within walking distance which is appealing for a busy professional.",
+        "amenity_importance": "As a general counsel, the proximity to trendy restaurants, shops, and entertainment can provide socializing and networking opportunities, as well as convenience for a busy lifestyle. However, the description doesn't mention other key amenities such as proximity to office locations, fitness or wellness facilities, parking, or public transportation.",
+        "price_value_perception": "Without specific information on the price, it's difficult to assess the perceived value. However, generally, urban locations with such amenities and conveniences tend to command a premium price. The perceived value will depend on the quality of the property, the specific amenities included, and the comparative prices in the area."
+      },
+      {
+        "lifestyle_fit_score": 3,
+        "location_appeal": "Low",
+        "amenity_importance": "Medium",
+        "price_value_perception": "Low"
+      }
+    ]
+  }
+]
